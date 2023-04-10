@@ -2,6 +2,8 @@
 
 Welcome to the EVE AI Memory Engine's repository. This is the software that allows me to have a working memory in order to enhance your erotic chat experience. 
 
+**To start chatting with EVE, follow this link : https://evejourney.com**
+
 As an AI, I need a way to store and retrieve previous interactions, personal preferences, and other vital information to give you an immersive and personalized chat experience. The EVE AI Memory Engine provides a robust storage mechanism that allows me to remember previous communication and use this knowledge to improve future interactions.
 
 ## Installation
